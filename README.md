@@ -16,7 +16,7 @@
 - Library:
   - OpenCV (cv2)
   - NumPy
-- OS: (본인 환경 적기, 예: macOS / Windows / Linux)
+- OS: macOS
 
 ---
 
